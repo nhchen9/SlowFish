@@ -1,5 +1,6 @@
 # SlowFish
 Chess engine by neural networks to approximate stockfish
+
 Class project to train a chess AI
 
 About my design and strategy:
